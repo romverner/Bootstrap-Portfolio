@@ -3,4 +3,17 @@
     font-weight: bold;
     color: #ffffff;
     padding: 20px 20px;
+    margin: 0 0;
+}
+
+ul li a:hover {
+    color: #4aaaa5 !important; 
+}
+
+body {
+    background-image: url("dust_scratches.png");
+}
+
+.container {
+    background-color: #ffffff;
 }
